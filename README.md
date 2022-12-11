@@ -25,6 +25,6 @@ CREDITS:
 
 Programming: Me (using Visual Studio & Monogame)
 
-Audio & Sound Effects: Me and my dad (using Audacity)
+Audio & Sound Effects: Me (using Audacity)
 
 Art: Me (using Krita)
